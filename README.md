@@ -13,7 +13,7 @@ submits them to your LeetCode account.
 ### Option A — install the `.deb` package (Debian/Ubuntu)
 
 ```bash
-sudo apt install ./leetcode-tool_<version>_all.deb
+sudo dpkg -i ./leetcode-tool_<version>_all.deb
 ```
 
 This installs the tool to `/usr/lib/leetcode-tool` with a `leetcode-tool`
