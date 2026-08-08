@@ -1,0 +1,5 @@
+
+playwright/.auth
+node_modules/
+deb/
+*.deb
